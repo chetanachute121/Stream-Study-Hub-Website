@@ -1,0 +1,52 @@
+
+
+header {
+    background-color:rgb(163, 72, 149);
+    color: #0b0a0a;
+    text-align: center;
+    padding: 10px ;
+}
+p{
+    font-size-adjust: none;
+    font-weight:bold ;
+    color: rgb(208, 33, 74);
+    margin: 10px;
+}
+main {
+    display: list-item;
+    justify-content: space-around;
+}
+
+.material {
+    width: 100%;
+    padding: 10px;
+}
+
+ul {
+    list-style-type: square;
+    padding: 10;
+}
+
+li {
+    margin-bottom: 20px;
+}
+
+summary{
+    font-weight: bold;
+    color:rgba(9, 1, 13, 0.854);
+    list-style-type: square;
+    width: 100% ;
+    padding: 10px;
+}
+details{
+list-style-type: num20;
+}
+h3{
+    color: #eb3baa;
+}
+ul{
+    counter-reset: white;
+}
+h2{
+    text-align: center;
+}
